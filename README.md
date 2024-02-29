@@ -1,3 +1,5 @@
+Please check report.pdf for details
+
 # Dataset Statistics
 
 ## Statistics of WBC
